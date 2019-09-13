@@ -1,0 +1,101 @@
+//META{"name":"Dark_Theme_Custom_Background.theme","description":"Just a custom background with the solid dark theme","author":"Inikashio","version":"1.0"}*//
+
+/*	
+	==================
+	  Set Background 
+	==================
+*/
+
+#app-mount.appMount-3lHmkl {}
+.container-2lgZY8 {
+	background-image: url(https://images5.alphacoders.com/823/823135.png);
+	background-size: cover;
+}
+  
+/*	
+	=========
+	  Boxes
+	=========
+*/
+
+/*Guiild Channels & */
+.container-PNkimc {
+	background-color: rgba(0, 0, 0, .65);
+}
+.platform-win .sidebar-2K8pFh {
+	border-radius: 0px 0 0;
+}
+/*Livestream & Voicecontroll*/
+.panels-j1Uci_ {
+	background-color: rgba(0, 0, 0, .65);
+}
+/*Guild Banners*/
+.guilds-1SWlCJ {
+	background-color: rgba(0, 0, 0, .75);
+}
+/*Chatbox*/
+.chat-3bRxxu {
+	background-color: rgba(0, 0, 0, .5);
+}
+/*Chat Top*/
+.container-1r6BKw.themed-ANHk51 {
+	background-color: rgba(0, 0, 0, .3);
+}
+/*Guild Member*/
+.members-1998pB {
+	background-color: rgba(0, 0, 0, .3);
+}
+/*Chat Input*/
+.inner-zqa7da {
+	background-color: rgba(0, 0, 0, .2);
+}
+/*Friends & private Channel*/
+.privateChannels-1nO12o {
+	background-color: rgba(0, 0, 0, .65);
+}
+/*Private Channel Activity*/
+.theme-dark .layout-1cQCv2 {
+	background-image: none;
+}
+.activityFeed-1C0EmJ {
+	background-color: rgba(0, 0, 0, .5);
+}
+
+
+
+/*
+	===================
+	  Single Elements
+	===================
+*/
+
+/*Chat Scroller*/
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-thumb {
+	background: rgba(0, 0, 0, 0.45);
+	border: 0px;
+	border-radius: 0px;
+}
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar {
+	width: 8px;
+}
+/*Chat Scrollbar Track*/
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
+	background-color: transparent;
+	border-color: transparent;
+}
+/*Timestamp Color*/
+.timestampCozy-2hLAPV {
+	color: #c7c7c7;
+}
+/*Chat Color*/
+.markup-2BOw-j {
+	color: white;
+}
+/*Activity-Info Color*/
+.activity-E-0FeD {
+	color: #c7c7c7;
+}
+/*Member Groups Color*/
+.container-2ax-kl {
+	color: #c7c7c7;
+}
